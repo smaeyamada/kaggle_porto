@@ -1,0 +1,1137 @@
+2020-05-31 16:51:34,211 __main__ 34 [INFO][<module>] start 
+2020-05-31 16:51:36,210 __main__ 43 [DEBUG][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 16:51:36,210 __main__ 45 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 16:51:41,987 __main__ 50 [INFO][<module>] train end 
+2020-05-31 16:51:45,126 __main__ 56 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 16:59:58,878 __main__ 34 [INFO][<module>] start 
+2020-05-31 16:59:58,878 __main__ 34 [INFO][<module>] start 
+2020-05-31 17:00:00,989 __main__ 43 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 17:00:00,989 __main__ 43 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 17:00:01,021 __main__ 45 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 17:00:01,021 __main__ 45 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 17:00:06,762 __main__ 50 [INFO][<module>] train end 
+2020-05-31 17:00:06,762 __main__ 50 [INFO][<module>] train end 
+2020-05-31 17:00:10,009 __main__ 56 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 17:00:10,009 __main__ 56 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 17:10:29,901 __main__ 34 [INFO][<module>] start 
+2020-05-31 17:10:29,901 __main__ 34 [INFO][<module>] start 
+2020-05-31 17:10:29,901 __main__ 34 [INFO][<module>] start 
+2020-05-31 17:10:31,943 __main__ 43 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 17:10:31,943 __main__ 43 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 17:10:31,943 __main__ 43 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 17:10:31,943 __main__ 45 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 17:10:31,943 __main__ 45 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 17:10:31,943 __main__ 45 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 17:10:37,615 __main__ 50 [INFO][<module>] train end 
+2020-05-31 17:10:37,615 __main__ 50 [INFO][<module>] train end 
+2020-05-31 17:10:37,615 __main__ 50 [INFO][<module>] train end 
+2020-05-31 17:10:40,771 __main__ 56 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 17:10:40,771 __main__ 56 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 17:10:40,771 __main__ 56 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 17:12:23,422 __main__ 34 [INFO][<module>] start 
+2020-05-31 17:12:23,422 __main__ 34 [INFO][<module>] start 
+2020-05-31 17:12:23,422 __main__ 34 [INFO][<module>] start 
+2020-05-31 17:12:23,422 __main__ 34 [INFO][<module>] start 
+2020-05-31 17:12:25,761 __main__ 43 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 17:12:25,761 __main__ 43 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 17:12:25,761 __main__ 43 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 17:12:25,761 __main__ 43 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 17:12:25,764 __main__ 45 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 17:12:25,764 __main__ 45 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 17:12:25,764 __main__ 45 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 17:12:25,764 __main__ 45 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 17:12:31,840 __main__ 50 [INFO][<module>] train end 
+2020-05-31 17:12:31,840 __main__ 50 [INFO][<module>] train end 
+2020-05-31 17:12:31,840 __main__ 50 [INFO][<module>] train end 
+2020-05-31 17:12:31,840 __main__ 50 [INFO][<module>] train end 
+2020-05-31 17:12:35,415 __main__ 56 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 17:12:35,415 __main__ 56 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 17:12:35,415 __main__ 56 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 17:12:35,415 __main__ 56 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 17:13:25,790 __main__ 34 [INFO][<module>] start 
+2020-05-31 17:13:28,144 __main__ 43 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 17:13:28,145 __main__ 45 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 17:13:34,297 __main__ 50 [INFO][<module>] train end 
+2020-05-31 17:13:38,045 __main__ 56 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 17:13:40,344 __main__ 65 [INFO][<module>] end 
+2020-05-31 18:24:48,248 __main__ 36 [INFO][<module>] start 
+2020-05-31 18:24:50,292 __main__ 45 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 18:24:50,293 __main__ 47 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 18:24:55,113 __main__ 65 [INFO][<module>] logloss: 0.1728167647561151, auc: 0.4900605194299764 
+2020-05-31 18:24:59,837 __main__ 65 [INFO][<module>] logloss: 0.17301682290556789, auc: 0.4877170023259925 
+2020-05-31 18:25:04,644 __main__ 65 [INFO][<module>] logloss: 0.1724966812817669, auc: 0.4945375237761391 
+2020-05-31 18:25:09,427 __main__ 65 [INFO][<module>] logloss: 0.17297953112490527, auc: 0.48923640919769956 
+2020-05-31 18:25:14,323 __main__ 65 [INFO][<module>] logloss: 0.172785203785887, auc: 0.48998647888143226 
+2020-05-31 18:25:20,051 __main__ 70 [INFO][<module>] train end 
+2020-05-31 18:25:23,253 __main__ 76 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 18:25:25,358 __main__ 85 [INFO][<module>] end 
+2020-05-31 18:36:18,837 __main__ 36 [INFO][<module>] start 
+2020-05-31 18:36:20,828 __main__ 45 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 18:36:20,829 __main__ 47 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 18:36:25,872 __main__ 69 [DEBUG][<module>]     logloss: 0.1728167647561151, auc: 0.4900605194299764 
+2020-05-31 18:36:30,831 __main__ 69 [DEBUG][<module>]     logloss: 0.17301682290556789, auc: 0.4877170023259925 
+2020-05-31 18:36:35,603 __main__ 69 [DEBUG][<module>]     logloss: 0.1724966812817669, auc: 0.4945375237761391 
+2020-05-31 18:36:40,366 __main__ 69 [DEBUG][<module>]     logloss: 0.17297953112490527, auc: 0.48923640919769956 
+2020-05-31 18:36:45,309 __main__ 69 [DEBUG][<module>]     logloss: 0.172785203785887, auc: 0.48998647888143226 
+2020-05-31 18:36:45,309 __main__ 72 [INFO][<module>] logloss: 0.17281900077084844, auc: 0.490307586722248 
+2020-05-31 18:36:51,066 __main__ 76 [INFO][<module>] train end 
+2020-05-31 18:36:54,103 __main__ 82 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 18:36:56,231 __main__ 91 [INFO][<module>] end 
+2020-05-31 18:56:23,030 __main__ 36 [INFO][<module>] start 
+2020-05-31 18:56:25,301 __main__ 45 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 18:56:25,303 __main__ 47 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 18:56:25,303 __main__ 58 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 18:56:30,505 __main__ 77 [DEBUG][<module>]     logloss: 0.17281675597303314, auc: -0.49006053148541556 
+2020-05-31 18:56:35,686 __main__ 77 [DEBUG][<module>]     logloss: 0.17301663964606928, auc: -0.48771696615967497 
+2020-05-31 18:56:40,806 __main__ 77 [DEBUG][<module>]     logloss: 0.17249669782711402, auc: -0.49453755391473697 
+2020-05-31 18:56:45,948 __main__ 77 [DEBUG][<module>]     logloss: 0.17297979246777442, auc: -0.4892364674661637 
+2020-05-31 18:56:51,124 __main__ 77 [DEBUG][<module>]     logloss: 0.17278493552672075, auc: -0.48998649696891744 
+2020-05-31 18:56:51,125 __main__ 81 [INFO][<module>] logloss: 0.1728189642881423, auc: -0.49030760319898176 
+2020-05-31 18:56:51,126 __main__ 58 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 18:57:01,559 __main__ 77 [DEBUG][<module>]     logloss: 0.15302999419573826, auc: -0.6224251169160606 
+2020-05-31 18:57:16,765 __main__ 77 [DEBUG][<module>]     logloss: 0.1528375092267169, auc: -0.6268804516102547 
+2020-05-31 18:57:21,661 __main__ 77 [DEBUG][<module>]     logloss: 0.15374030214637918, auc: -0.6108257209128533 
+2020-05-31 18:58:52,934 __main__ 37 [INFO][<module>] start 
+2020-05-31 18:58:55,211 __main__ 46 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 18:58:55,213 __main__ 48 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 18:58:55,216 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 18:59:00,392 __main__ 78 [DEBUG][<module>]     logloss: 0.17281675597303314, auc: -0.49006053148541556 
+2020-05-31 18:59:05,527 __main__ 78 [DEBUG][<module>]     logloss: 0.17301663964606928, auc: -0.48771696615967497 
+2020-05-31 18:59:10,615 __main__ 78 [DEBUG][<module>]     logloss: 0.17249669782711402, auc: -0.49453755391473697 
+2020-05-31 18:59:15,775 __main__ 78 [DEBUG][<module>]     logloss: 0.17297979246777442, auc: -0.4892364674661637 
+2020-05-31 18:59:20,755 __main__ 78 [DEBUG][<module>]     logloss: 0.17278493552672075, auc: -0.48998649696891744 
+2020-05-31 18:59:20,756 __main__ 82 [INFO][<module>] logloss: 0.1728189642881423, auc: -0.49030760319898176 
+2020-05-31 18:59:20,758 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 18:59:30,052 __main__ 78 [DEBUG][<module>]     logloss: 0.15302999419573826, auc: -0.6224251169160606 
+2020-05-31 18:59:43,527 __main__ 78 [DEBUG][<module>]     logloss: 0.1528375092267169, auc: -0.6268804516102547 
+2020-05-31 18:59:47,990 __main__ 78 [DEBUG][<module>]     logloss: 0.15374030214637918, auc: -0.6108257209128533 
+2020-05-31 19:00:01,132 __main__ 78 [DEBUG][<module>]     logloss: 0.15298593849069875, auc: -0.6249510421834205 
+2020-05-31 19:00:38,231 __main__ 78 [DEBUG][<module>]     logloss: 0.1538397706607587, auc: -0.6094069826301901 
+2020-05-31 19:00:38,232 __main__ 82 [INFO][<module>] logloss: 0.15328670294405836, auc: -0.6188978628505558 
+2020-05-31 19:00:38,234 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:00:43,204 __main__ 78 [DEBUG][<module>]     logloss: 0.17283372023105253, auc: -0.49006114631281494 
+2020-05-31 19:00:48,070 __main__ 78 [DEBUG][<module>]     logloss: 0.1730340401932351, auc: -0.48771728161033406 
+2020-05-31 19:00:52,920 __main__ 78 [DEBUG][<module>]     logloss: 0.17251360158310292, auc: -0.49454026839779774 
+2020-05-31 19:00:57,753 __main__ 78 [DEBUG][<module>]     logloss: 0.17299638978550488, auc: -0.48923921613026516 
+2020-05-31 19:01:02,636 __main__ 78 [DEBUG][<module>]     logloss: 0.17280232406310456, auc: -0.48998613923865764 
+2020-05-31 19:01:02,636 __main__ 82 [INFO][<module>] logloss: 0.1728360151712, auc: -0.4903088103379739 
+2020-05-31 19:01:02,638 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:01:04,208 __main__ 78 [DEBUG][<module>]     logloss: 0.15546230141488107, auc: -0.587836444402838 
+2020-05-31 19:01:17,495 __main__ 78 [DEBUG][<module>]     logloss: 0.15294772634633788, auc: -0.6249547197703512 
+2020-05-31 19:01:31,303 __main__ 78 [DEBUG][<module>]     logloss: 0.15355012423885692, auc: -0.6148677851049487 
+2020-05-31 19:01:47,044 __main__ 78 [DEBUG][<module>]     logloss: 0.15307381178933682, auc: -0.6231610490298244 
+2020-05-31 19:02:00,097 __main__ 78 [DEBUG][<module>]     logloss: 0.15396995134793615, auc: -0.6071367681202144 
+2020-05-31 19:02:00,098 __main__ 82 [INFO][<module>] logloss: 0.15380078302746975, auc: -0.6115913532856354 
+2020-05-31 19:02:00,100 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:02:05,135 __main__ 78 [DEBUG][<module>]     logloss: 0.1728167647561151, auc: -0.4900605194299764 
+2020-05-31 19:02:10,137 __main__ 78 [DEBUG][<module>]     logloss: 0.17301682290556789, auc: -0.4877170023259925 
+2020-05-31 19:02:14,939 __main__ 78 [DEBUG][<module>]     logloss: 0.1724966812817669, auc: -0.4945375237761391 
+2020-05-31 19:02:19,750 __main__ 78 [DEBUG][<module>]     logloss: 0.17297953112490527, auc: -0.48923640919769956 
+2020-05-31 19:02:24,609 __main__ 78 [DEBUG][<module>]     logloss: 0.172785203785887, auc: -0.48998647888143226 
+2020-05-31 19:02:24,610 __main__ 82 [INFO][<module>] logloss: 0.17281900077084844, auc: -0.490307586722248 
+2020-05-31 19:02:24,612 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:02:37,330 __main__ 78 [DEBUG][<module>]     logloss: 0.15293364151782024, auc: -0.6244513268232461 
+2020-05-31 19:02:41,029 __main__ 78 [DEBUG][<module>]     logloss: 0.15315445123268212, auc: -0.6200097534129029 
+2020-05-31 19:02:44,698 __main__ 78 [DEBUG][<module>]     logloss: 0.15379699933217023, auc: -0.6098216113261462 
+2020-05-31 19:02:48,502 __main__ 78 [DEBUG][<module>]     logloss: 0.1534341775497734, auc: -0.6156582227631795 
+2020-05-31 19:02:52,175 __main__ 78 [DEBUG][<module>]     logloss: 0.15413605606009292, auc: -0.6037155464510391 
+2020-05-31 19:02:52,175 __main__ 82 [INFO][<module>] logloss: 0.1534910651385078, auc: -0.6147312921553029 
+2020-05-31 19:02:52,178 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:02:57,100 __main__ 78 [DEBUG][<module>]     logloss: 0.17283394326638543, auc: -0.4900611061280176 
+2020-05-31 19:03:01,984 __main__ 78 [DEBUG][<module>]     logloss: 0.17303400835850388, auc: -0.48771724745325634 
+2020-05-31 19:03:06,786 __main__ 78 [DEBUG][<module>]     logloss: 0.17251331940079082, auc: -0.4945402462961591 
+2020-05-31 19:03:11,546 __main__ 78 [DEBUG][<module>]     logloss: 0.17299669842269044, auc: -0.489239177954375 
+2020-05-31 19:03:16,319 __main__ 78 [DEBUG][<module>]     logloss: 0.17280219322001783, auc: -0.48998616938446604 
+2020-05-31 19:03:16,319 __main__ 82 [INFO][<module>] logloss: 0.17283603253367769, auc: -0.49030878944325484 
+2020-05-31 19:03:16,322 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:03:17,808 __main__ 78 [DEBUG][<module>]     logloss: 0.1554696756995424, auc: -0.5878804768945292 
+2020-05-31 19:03:35,004 __main__ 78 [DEBUG][<module>]     logloss: 0.1528361250194794, auc: -0.626977688773631 
+2020-05-31 19:04:02,865 __main__ 78 [DEBUG][<module>]     logloss: 0.1534713871245547, auc: -0.6162338311243857 
+2020-05-31 19:04:30,201 __main__ 78 [DEBUG][<module>]     logloss: 0.15286558007950393, auc: -0.6271706145657493 
+2020-05-31 19:04:36,879 __main__ 78 [DEBUG][<module>]     logloss: 0.1540674873393926, auc: -0.6056009296195578 
+2020-05-31 19:04:36,880 __main__ 82 [INFO][<module>] logloss: 0.15374205105249458, auc: -0.6127727081955705 
+2020-05-31 19:04:36,882 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:04:42,041 __main__ 78 [DEBUG][<module>]     logloss: 0.1728167618244711, auc: -0.4900605113930169 
+2020-05-31 19:04:46,852 __main__ 78 [DEBUG][<module>]     logloss: 0.17301675823748222, auc: -0.48771697620587423 
+2020-05-31 19:04:51,709 __main__ 78 [DEBUG][<module>]     logloss: 0.17249652824863299, auc: -0.4945375117206998 
+2020-05-31 19:04:56,641 __main__ 78 [DEBUG][<module>]     logloss: 0.1729800503981426, auc: -0.4892364513921046 
+2020-05-31 19:05:01,524 __main__ 78 [DEBUG][<module>]     logloss: 0.17278515991782983, auc: -0.489986452755065 
+2020-05-31 19:05:01,525 __main__ 82 [INFO][<module>] logloss: 0.17281905172531176, auc: -0.4903075806933521 
+2020-05-31 19:05:01,527 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:05:11,054 __main__ 78 [DEBUG][<module>]     logloss: 0.1529760516019805, auc: -0.6235019288381246 
+2020-05-31 19:05:14,825 __main__ 78 [DEBUG][<module>]     logloss: 0.1531528635881419, auc: -0.6200461045805814 
+2020-05-31 19:05:18,481 __main__ 78 [DEBUG][<module>]     logloss: 0.15379897443354318, auc: -0.6097852018905113 
+2020-05-31 19:05:22,292 __main__ 78 [DEBUG][<module>]     logloss: 0.1534235060359614, auc: -0.6158548989222278 
+2020-05-31 19:05:26,127 __main__ 78 [DEBUG][<module>]     logloss: 0.15413766153301225, auc: -0.6037112556976432 
+2020-05-31 19:05:26,128 __main__ 82 [INFO][<module>] logloss: 0.15349781143852786, auc: -0.6145798779858177 
+2020-05-31 19:05:26,131 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:05:31,075 __main__ 78 [DEBUG][<module>]     logloss: 0.17283351230948807, auc: -0.4900611061280177 
+2020-05-31 19:05:35,891 __main__ 78 [DEBUG][<module>]     logloss: 0.1730338307434085, auc: -0.48771725950869554 
+2020-05-31 19:05:40,727 __main__ 78 [DEBUG][<module>]     logloss: 0.17251312734577318, auc: -0.4945402844717167 
+2020-05-31 19:05:45,574 __main__ 78 [DEBUG][<module>]     logloss: 0.17299667017023132, auc: -0.48923917393586025 
+2020-05-31 19:05:50,207 __main__ 78 [DEBUG][<module>]     logloss: 0.17280235051393877, auc: -0.4899861432580988 
+2020-05-31 19:05:50,208 __main__ 82 [INFO][<module>] logloss: 0.17283589821656797, auc: -0.4903087934604778 
+2020-05-31 19:05:50,210 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:05:51,698 __main__ 78 [DEBUG][<module>]     logloss: 0.15547073314032508, auc: -0.5878854578001601 
+2020-05-31 19:06:13,805 __main__ 78 [DEBUG][<module>]     logloss: 0.15279499919093928, auc: -0.6276326366746842 
+2020-05-31 19:06:35,412 __main__ 78 [DEBUG][<module>]     logloss: 0.15347947053621755, auc: -0.616087978393181 
+2020-05-31 19:06:57,205 __main__ 78 [DEBUG][<module>]     logloss: 0.15290943891249548, auc: -0.6263132483658703 
+2020-05-31 19:07:19,169 __main__ 78 [DEBUG][<module>]     logloss: 0.153874118544094, auc: -0.6088158233274271 
+2020-05-31 19:07:19,170 __main__ 82 [INFO][<module>] logloss: 0.15370575206481427, auc: -0.6133470289122644 
+2020-05-31 19:07:19,173 __main__ 87 [INFO][<module>] minimum params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:07:19,174 __main__ 88 [INFO][<module>] minimum auc: -0.6188978628505558 
+2020-05-31 19:07:23,989 __main__ 93 [INFO][<module>] train end 
+2020-05-31 19:07:27,087 __main__ 99 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 19:07:29,277 __main__ 108 [INFO][<module>] end 
+2020-05-31 19:52:30,209 __main__ 37 [INFO][<module>] start 
+2020-05-31 19:52:32,541 __main__ 46 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 19:52:32,543 __main__ 48 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 19:52:32,545 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:52:37,700 __main__ 78 [DEBUG][<module>]     logloss: 0.17281675597303314, auc: -0.49006053148541556 
+2020-05-31 19:52:37,700 __main__ 83 [INFO][<module>] logloss: 0.17281675597303314, auc: -0.49006053148541556 
+2020-05-31 19:52:37,702 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:52:48,208 __main__ 78 [DEBUG][<module>]     logloss: 0.15302999419573826, auc: -0.6224251169160606 
+2020-05-31 19:52:48,208 __main__ 83 [INFO][<module>] logloss: 0.15302999419573826, auc: -0.6224251169160606 
+2020-05-31 19:52:48,211 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:52:53,402 __main__ 78 [DEBUG][<module>]     logloss: 0.17283372023105253, auc: -0.49006114631281494 
+2020-05-31 19:52:53,403 __main__ 83 [INFO][<module>] logloss: 0.17283372023105253, auc: -0.49006114631281494 
+2020-05-31 19:52:53,405 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:52:55,098 __main__ 78 [DEBUG][<module>]     logloss: 0.15546230141488107, auc: -0.587836444402838 
+2020-05-31 19:52:55,099 __main__ 83 [INFO][<module>] logloss: 0.15546230141488107, auc: -0.587836444402838 
+2020-05-31 19:52:55,101 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:53:00,449 __main__ 78 [DEBUG][<module>]     logloss: 0.1728167647561151, auc: -0.4900605194299764 
+2020-05-31 19:53:00,450 __main__ 83 [INFO][<module>] logloss: 0.1728167647561151, auc: -0.4900605194299764 
+2020-05-31 19:53:00,452 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:53:15,018 __main__ 78 [DEBUG][<module>]     logloss: 0.15293364151782024, auc: -0.6244513268232461 
+2020-05-31 19:53:15,019 __main__ 83 [INFO][<module>] logloss: 0.15293364151782024, auc: -0.6244513268232461 
+2020-05-31 19:53:15,021 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:53:20,228 __main__ 78 [DEBUG][<module>]     logloss: 0.17283394326638543, auc: -0.4900611061280176 
+2020-05-31 19:53:20,228 __main__ 83 [INFO][<module>] logloss: 0.17283394326638543, auc: -0.4900611061280176 
+2020-05-31 19:53:20,230 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:53:21,920 __main__ 78 [DEBUG][<module>]     logloss: 0.1554696756995424, auc: -0.5878804768945292 
+2020-05-31 19:53:21,920 __main__ 83 [INFO][<module>] logloss: 0.1554696756995424, auc: -0.5878804768945292 
+2020-05-31 19:53:21,922 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:53:27,084 __main__ 78 [DEBUG][<module>]     logloss: 0.1728167618244711, auc: -0.4900605113930169 
+2020-05-31 19:53:27,085 __main__ 83 [INFO][<module>] logloss: 0.1728167618244711, auc: -0.4900605113930169 
+2020-05-31 19:53:27,088 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:53:37,905 __main__ 78 [DEBUG][<module>]     logloss: 0.1529760516019805, auc: -0.6235019288381246 
+2020-05-31 19:53:37,906 __main__ 83 [INFO][<module>] logloss: 0.1529760516019805, auc: -0.6235019288381246 
+2020-05-31 19:53:37,908 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:53:43,172 __main__ 78 [DEBUG][<module>]     logloss: 0.17283351230948807, auc: -0.4900611061280177 
+2020-05-31 19:53:43,173 __main__ 83 [INFO][<module>] logloss: 0.17283351230948807, auc: -0.4900611061280177 
+2020-05-31 19:53:43,175 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:53:44,860 __main__ 78 [DEBUG][<module>]     logloss: 0.15547073314032508, auc: -0.5878854578001601 
+2020-05-31 19:53:44,861 __main__ 83 [INFO][<module>] logloss: 0.15547073314032508, auc: -0.5878854578001601 
+2020-05-31 19:53:44,864 __main__ 88 [INFO][<module>] minimum params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:53:44,865 __main__ 89 [INFO][<module>] minimum auc: -0.6244513268232461 
+2020-05-31 19:53:50,129 __main__ 94 [INFO][<module>] train end 
+2020-05-31 19:53:53,988 __main__ 100 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 19:53:56,246 __main__ 109 [INFO][<module>] end 
+2020-05-31 19:55:43,746 __main__ 37 [INFO][<module>] start 
+2020-05-31 19:55:45,773 __main__ 46 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 19:55:45,775 __main__ 48 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 19:55:45,777 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:55:51,068 __main__ 78 [DEBUG][<module>]     logloss: 0.17281675597303314, auc: -0.49006053148541556 
+2020-05-31 19:55:51,069 __main__ 86 [INFO][<module>] logloss: 0.17281675597303314, auc: -0.49006053148541556 
+2020-05-31 19:55:51,071 __main__ 87 [INFO][<module>] current min score: -0.49006053148541556, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:55:51,073 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:01,855 __main__ 78 [DEBUG][<module>]     logloss: 0.15302999419573826, auc: -0.6224251169160606 
+2020-05-31 19:56:01,856 __main__ 86 [INFO][<module>] logloss: 0.15302999419573826, auc: -0.6224251169160606 
+2020-05-31 19:56:01,857 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:01,859 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:56:07,057 __main__ 78 [DEBUG][<module>]     logloss: 0.17283372023105253, auc: -0.49006114631281494 
+2020-05-31 19:56:07,057 __main__ 86 [INFO][<module>] logloss: 0.17283372023105253, auc: -0.49006114631281494 
+2020-05-31 19:56:07,059 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:07,062 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:08,739 __main__ 78 [DEBUG][<module>]     logloss: 0.15546230141488107, auc: -0.587836444402838 
+2020-05-31 19:56:08,739 __main__ 86 [INFO][<module>] logloss: 0.15546230141488107, auc: -0.587836444402838 
+2020-05-31 19:56:08,741 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:08,743 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:56:13,965 __main__ 78 [DEBUG][<module>]     logloss: 0.1728167647561151, auc: -0.4900605194299764 
+2020-05-31 19:56:13,965 __main__ 86 [INFO][<module>] logloss: 0.1728167647561151, auc: -0.4900605194299764 
+2020-05-31 19:56:13,967 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:13,969 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:29,168 __main__ 78 [DEBUG][<module>]     logloss: 0.15293364151782024, auc: -0.6244513268232461 
+2020-05-31 19:56:29,168 __main__ 86 [INFO][<module>] logloss: 0.15293364151782024, auc: -0.6244513268232461 
+2020-05-31 19:56:29,170 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:29,172 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:56:34,323 __main__ 78 [DEBUG][<module>]     logloss: 0.17283394326638543, auc: -0.4900611061280176 
+2020-05-31 19:56:34,324 __main__ 86 [INFO][<module>] logloss: 0.17283394326638543, auc: -0.4900611061280176 
+2020-05-31 19:56:34,326 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:34,328 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:35,988 __main__ 78 [DEBUG][<module>]     logloss: 0.1554696756995424, auc: -0.5878804768945292 
+2020-05-31 19:56:35,989 __main__ 86 [INFO][<module>] logloss: 0.1554696756995424, auc: -0.5878804768945292 
+2020-05-31 19:56:35,991 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:35,993 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:56:41,251 __main__ 78 [DEBUG][<module>]     logloss: 0.1728167618244711, auc: -0.4900605113930169 
+2020-05-31 19:56:41,251 __main__ 86 [INFO][<module>] logloss: 0.1728167618244711, auc: -0.4900605113930169 
+2020-05-31 19:56:41,253 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:41,255 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:52,382 __main__ 78 [DEBUG][<module>]     logloss: 0.1529760516019805, auc: -0.6235019288381246 
+2020-05-31 19:56:52,382 __main__ 86 [INFO][<module>] logloss: 0.1529760516019805, auc: -0.6235019288381246 
+2020-05-31 19:56:52,384 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:52,386 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 19:56:57,573 __main__ 78 [DEBUG][<module>]     logloss: 0.17283351230948807, auc: -0.4900611061280177 
+2020-05-31 19:56:57,574 __main__ 86 [INFO][<module>] logloss: 0.17283351230948807, auc: -0.4900611061280177 
+2020-05-31 19:56:57,576 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:57,578 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:59,244 __main__ 78 [DEBUG][<module>]     logloss: 0.15547073314032508, auc: -0.5878854578001601 
+2020-05-31 19:56:59,245 __main__ 86 [INFO][<module>] logloss: 0.15547073314032508, auc: -0.5878854578001601 
+2020-05-31 19:56:59,247 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:59,249 __main__ 89 [INFO][<module>] minimum params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 19:56:59,251 __main__ 90 [INFO][<module>] minimum auc: -0.6244513268232461 
+2020-05-31 19:57:04,400 __main__ 95 [INFO][<module>] train end 
+2020-05-31 19:57:07,933 __main__ 101 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 19:57:10,172 __main__ 110 [INFO][<module>] end 
+2020-05-31 20:04:01,708 __main__ 37 [INFO][<module>] start 
+2020-05-31 20:04:03,708 __main__ 46 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 20:04:03,708 __main__ 48 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 20:04:03,708 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:08,631 __main__ 78 [DEBUG][<module>]     logloss: 0.17281675597303314, auc: -0.49006053148541556 
+2020-05-31 20:04:08,631 __main__ 86 [INFO][<module>] logloss: 0.17281675597303314, auc: -0.49006053148541556 
+2020-05-31 20:04:08,631 __main__ 87 [INFO][<module>] current min score: -0.49006053148541556, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:08,631 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:18,349 __main__ 78 [DEBUG][<module>]     logloss: 0.15302999419573826, auc: -0.6224251169160606 
+2020-05-31 20:04:18,349 __main__ 86 [INFO][<module>] logloss: 0.15302999419573826, auc: -0.6224251169160606 
+2020-05-31 20:04:18,365 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:18,365 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:23,286 __main__ 78 [DEBUG][<module>]     logloss: 0.17283372023105253, auc: -0.49006114631281494 
+2020-05-31 20:04:23,286 __main__ 86 [INFO][<module>] logloss: 0.17283372023105253, auc: -0.49006114631281494 
+2020-05-31 20:04:23,286 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:23,286 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:24,849 __main__ 78 [DEBUG][<module>]     logloss: 0.15546230141488107, auc: -0.587836444402838 
+2020-05-31 20:04:24,849 __main__ 86 [INFO][<module>] logloss: 0.15546230141488107, auc: -0.587836444402838 
+2020-05-31 20:04:24,849 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:24,849 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:29,787 __main__ 78 [DEBUG][<module>]     logloss: 0.1728167647561151, auc: -0.4900605194299764 
+2020-05-31 20:04:29,787 __main__ 86 [INFO][<module>] logloss: 0.1728167647561151, auc: -0.4900605194299764 
+2020-05-31 20:04:29,787 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:29,787 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:43,521 __main__ 78 [DEBUG][<module>]     logloss: 0.15293364151782024, auc: -0.6244513268232461 
+2020-05-31 20:04:43,521 __main__ 86 [INFO][<module>] logloss: 0.15293364151782024, auc: -0.6244513268232461 
+2020-05-31 20:04:43,521 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:43,521 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:48,429 __main__ 78 [DEBUG][<module>]     logloss: 0.17283394326638543, auc: -0.4900611061280176 
+2020-05-31 20:04:48,430 __main__ 86 [INFO][<module>] logloss: 0.17283394326638543, auc: -0.4900611061280176 
+2020-05-31 20:04:48,431 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:48,433 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:49,958 __main__ 78 [DEBUG][<module>]     logloss: 0.1554696756995424, auc: -0.5878804768945292 
+2020-05-31 20:04:49,974 __main__ 86 [INFO][<module>] logloss: 0.1554696756995424, auc: -0.5878804768945292 
+2020-05-31 20:04:49,974 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:49,974 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:54,990 __main__ 78 [DEBUG][<module>]     logloss: 0.1728167618244711, auc: -0.4900605113930169 
+2020-05-31 20:04:54,990 __main__ 86 [INFO][<module>] logloss: 0.1728167618244711, auc: -0.4900605113930169 
+2020-05-31 20:04:54,990 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:04:54,990 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:05:04,958 __main__ 78 [DEBUG][<module>]     logloss: 0.1529760516019805, auc: -0.6235019288381246 
+2020-05-31 20:05:04,958 __main__ 86 [INFO][<module>] logloss: 0.1529760516019805, auc: -0.6235019288381246 
+2020-05-31 20:05:04,958 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:05:04,958 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:05:09,943 __main__ 78 [DEBUG][<module>]     logloss: 0.17283351230948807, auc: -0.4900611061280177 
+2020-05-31 20:05:09,943 __main__ 86 [INFO][<module>] logloss: 0.17283351230948807, auc: -0.4900611061280177 
+2020-05-31 20:05:09,943 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:05:09,943 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:05:11,505 __main__ 78 [DEBUG][<module>]     logloss: 0.15547073314032508, auc: -0.5878854578001601 
+2020-05-31 20:05:11,505 __main__ 86 [INFO][<module>] logloss: 0.15547073314032508, auc: -0.5878854578001601 
+2020-05-31 20:05:11,505 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:05:11,505 __main__ 89 [INFO][<module>] minimum params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0, 'solver': 'liblinear'} 
+2020-05-31 20:05:11,505 __main__ 90 [INFO][<module>] minimum auc: -0.6244513268232461 
+2020-05-31 20:05:16,228 __main__ 95 [INFO][<module>] train end 
+2020-05-31 20:05:19,505 __main__ 101 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 20:05:21,661 __main__ 110 [INFO][<module>] end 
+2020-05-31 20:05:40,046 __main__ 37 [INFO][<module>] start 
+2020-05-31 20:05:40,046 __main__ 37 [INFO][<module>] start 
+2020-05-31 20:05:42,137 __main__ 46 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 20:05:42,137 __main__ 46 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 20:05:42,140 __main__ 48 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 20:05:42,140 __main__ 48 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 20:05:42,144 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:05:42,144 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:05:47,148 __main__ 78 [DEBUG][<module>]     logloss: 0.17281675597303314, auc: -0.49006053148541556 
+2020-05-31 20:05:47,148 __main__ 78 [DEBUG][<module>]     logloss: 0.17281675597303314, auc: -0.49006053148541556 
+2020-05-31 20:05:47,149 __main__ 86 [INFO][<module>] logloss: 0.17281675597303314, auc: -0.49006053148541556 
+2020-05-31 20:05:47,149 __main__ 86 [INFO][<module>] logloss: 0.17281675597303314, auc: -0.49006053148541556 
+2020-05-31 20:05:47,151 __main__ 87 [INFO][<module>] current min score: -0.49006053148541556, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:05:47,151 __main__ 87 [INFO][<module>] current min score: -0.49006053148541556, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:05:47,155 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:05:47,155 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:05:56,274 __main__ 78 [DEBUG][<module>]     logloss: 0.15302999419573826, auc: -0.6224251169160606 
+2020-05-31 20:05:56,274 __main__ 78 [DEBUG][<module>]     logloss: 0.15302999419573826, auc: -0.6224251169160606 
+2020-05-31 20:05:56,275 __main__ 86 [INFO][<module>] logloss: 0.15302999419573826, auc: -0.6224251169160606 
+2020-05-31 20:05:56,275 __main__ 86 [INFO][<module>] logloss: 0.15302999419573826, auc: -0.6224251169160606 
+2020-05-31 20:05:56,278 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:05:56,278 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:05:56,281 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:05:56,281 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:06:01,171 __main__ 78 [DEBUG][<module>]     logloss: 0.17283372023105253, auc: -0.49006114631281494 
+2020-05-31 20:06:01,171 __main__ 78 [DEBUG][<module>]     logloss: 0.17283372023105253, auc: -0.49006114631281494 
+2020-05-31 20:06:01,172 __main__ 86 [INFO][<module>] logloss: 0.17283372023105253, auc: -0.49006114631281494 
+2020-05-31 20:06:01,172 __main__ 86 [INFO][<module>] logloss: 0.17283372023105253, auc: -0.49006114631281494 
+2020-05-31 20:06:01,175 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:01,175 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:01,178 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:01,178 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:02,693 __main__ 78 [DEBUG][<module>]     logloss: 0.15546230141488107, auc: -0.587836444402838 
+2020-05-31 20:06:02,693 __main__ 78 [DEBUG][<module>]     logloss: 0.15546230141488107, auc: -0.587836444402838 
+2020-05-31 20:06:02,693 __main__ 86 [INFO][<module>] logloss: 0.15546230141488107, auc: -0.587836444402838 
+2020-05-31 20:06:02,693 __main__ 86 [INFO][<module>] logloss: 0.15546230141488107, auc: -0.587836444402838 
+2020-05-31 20:06:02,708 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:02,708 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:02,708 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:06:02,708 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:06:07,677 __main__ 78 [DEBUG][<module>]     logloss: 0.1728167647561151, auc: -0.4900605194299764 
+2020-05-31 20:06:07,677 __main__ 78 [DEBUG][<module>]     logloss: 0.1728167647561151, auc: -0.4900605194299764 
+2020-05-31 20:06:07,677 __main__ 86 [INFO][<module>] logloss: 0.1728167647561151, auc: -0.4900605194299764 
+2020-05-31 20:06:07,677 __main__ 86 [INFO][<module>] logloss: 0.1728167647561151, auc: -0.4900605194299764 
+2020-05-31 20:06:07,677 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:07,677 __main__ 87 [INFO][<module>] current min score: -0.6224251169160606, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:07,677 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:07,677 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:20,317 __main__ 78 [DEBUG][<module>]     logloss: 0.15293364151782024, auc: -0.6244513268232461 
+2020-05-31 20:06:20,317 __main__ 78 [DEBUG][<module>]     logloss: 0.15293364151782024, auc: -0.6244513268232461 
+2020-05-31 20:06:20,317 __main__ 86 [INFO][<module>] logloss: 0.15293364151782024, auc: -0.6244513268232461 
+2020-05-31 20:06:20,317 __main__ 86 [INFO][<module>] logloss: 0.15293364151782024, auc: -0.6244513268232461 
+2020-05-31 20:06:20,320 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:20,320 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:20,324 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:06:20,324 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:06:25,181 __main__ 78 [DEBUG][<module>]     logloss: 0.17283394326638543, auc: -0.4900611061280176 
+2020-05-31 20:06:25,181 __main__ 78 [DEBUG][<module>]     logloss: 0.17283394326638543, auc: -0.4900611061280176 
+2020-05-31 20:06:25,181 __main__ 86 [INFO][<module>] logloss: 0.17283394326638543, auc: -0.4900611061280176 
+2020-05-31 20:06:25,181 __main__ 86 [INFO][<module>] logloss: 0.17283394326638543, auc: -0.4900611061280176 
+2020-05-31 20:06:25,184 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:25,184 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:25,188 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:25,188 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:26,693 __main__ 78 [DEBUG][<module>]     logloss: 0.1554696756995424, auc: -0.5878804768945292 
+2020-05-31 20:06:26,693 __main__ 78 [DEBUG][<module>]     logloss: 0.1554696756995424, auc: -0.5878804768945292 
+2020-05-31 20:06:26,693 __main__ 86 [INFO][<module>] logloss: 0.1554696756995424, auc: -0.5878804768945292 
+2020-05-31 20:06:26,693 __main__ 86 [INFO][<module>] logloss: 0.1554696756995424, auc: -0.5878804768945292 
+2020-05-31 20:06:26,693 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:26,693 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:26,693 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:06:26,693 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:06:31,755 __main__ 78 [DEBUG][<module>]     logloss: 0.1728167618244711, auc: -0.4900605113930169 
+2020-05-31 20:06:31,755 __main__ 78 [DEBUG][<module>]     logloss: 0.1728167618244711, auc: -0.4900605113930169 
+2020-05-31 20:06:31,755 __main__ 86 [INFO][<module>] logloss: 0.1728167618244711, auc: -0.4900605113930169 
+2020-05-31 20:06:31,755 __main__ 86 [INFO][<module>] logloss: 0.1728167618244711, auc: -0.4900605113930169 
+2020-05-31 20:06:31,771 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:31,771 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:31,771 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:31,771 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:41,154 __main__ 78 [DEBUG][<module>]     logloss: 0.1529760516019805, auc: -0.6235019288381246 
+2020-05-31 20:06:41,154 __main__ 78 [DEBUG][<module>]     logloss: 0.1529760516019805, auc: -0.6235019288381246 
+2020-05-31 20:06:41,154 __main__ 86 [INFO][<module>] logloss: 0.1529760516019805, auc: -0.6235019288381246 
+2020-05-31 20:06:41,154 __main__ 86 [INFO][<module>] logloss: 0.1529760516019805, auc: -0.6235019288381246 
+2020-05-31 20:06:41,157 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:41,157 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:41,161 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:06:41,161 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:06:46,021 __main__ 78 [DEBUG][<module>]     logloss: 0.17283351230948807, auc: -0.4900611061280177 
+2020-05-31 20:06:46,021 __main__ 78 [DEBUG][<module>]     logloss: 0.17283351230948807, auc: -0.4900611061280177 
+2020-05-31 20:06:46,021 __main__ 86 [INFO][<module>] logloss: 0.17283351230948807, auc: -0.4900611061280177 
+2020-05-31 20:06:46,021 __main__ 86 [INFO][<module>] logloss: 0.17283351230948807, auc: -0.4900611061280177 
+2020-05-31 20:06:46,037 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:46,037 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:46,037 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:46,037 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:47,568 __main__ 78 [DEBUG][<module>]     logloss: 0.15547073314032508, auc: -0.5878854578001601 
+2020-05-31 20:06:47,568 __main__ 78 [DEBUG][<module>]     logloss: 0.15547073314032508, auc: -0.5878854578001601 
+2020-05-31 20:06:47,568 __main__ 86 [INFO][<module>] logloss: 0.15547073314032508, auc: -0.5878854578001601 
+2020-05-31 20:06:47,568 __main__ 86 [INFO][<module>] logloss: 0.15547073314032508, auc: -0.5878854578001601 
+2020-05-31 20:06:47,568 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:47,568 __main__ 87 [INFO][<module>] current min score: -0.6244513268232461, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:47,583 __main__ 89 [INFO][<module>] minimum params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:47,583 __main__ 89 [INFO][<module>] minimum params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:06:47,583 __main__ 90 [INFO][<module>] minimum auc: -0.6244513268232461 
+2020-05-31 20:06:47,583 __main__ 90 [INFO][<module>] minimum auc: -0.6244513268232461 
+2020-05-31 20:06:52,227 __main__ 95 [INFO][<module>] train end 
+2020-05-31 20:06:52,227 __main__ 95 [INFO][<module>] train end 
+2020-05-31 20:06:55,452 __main__ 101 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 20:06:55,452 __main__ 101 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 20:06:57,599 __main__ 110 [INFO][<module>] end 
+2020-05-31 20:06:57,599 __main__ 110 [INFO][<module>] end 
+2020-05-31 20:07:57,179 __main__ 37 [INFO][<module>] start 
+2020-05-31 20:07:59,053 __main__ 46 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 20:07:59,053 __main__ 48 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 20:07:59,053 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:08:03,990 __main__ 78 [DEBUG][<module>]     logloss: 0.17281675597303314, auc: -0.49006053148541556 
+2020-05-31 20:08:08,834 __main__ 78 [DEBUG][<module>]     logloss: 0.17301663964606928, auc: -0.48771696615967497 
+2020-05-31 20:08:13,677 __main__ 78 [DEBUG][<module>]     logloss: 0.17249669782711402, auc: -0.49453755391473697 
+2020-05-31 20:08:18,474 __main__ 78 [DEBUG][<module>]     logloss: 0.17297979246777442, auc: -0.4892364674661637 
+2020-05-31 20:08:23,300 __main__ 78 [DEBUG][<module>]     logloss: 0.17278493552672075, auc: -0.48998649696891744 
+2020-05-31 20:08:23,301 __main__ 86 [INFO][<module>] logloss: 0.1728189642881423, auc: -0.49030760319898176 
+2020-05-31 20:08:23,303 __main__ 87 [INFO][<module>] current min score: -0.49030760319898176, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:08:23,304 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:08:32,521 __main__ 78 [DEBUG][<module>]     logloss: 0.15302999419573826, auc: -0.6224251169160606 
+2020-05-31 20:08:45,974 __main__ 78 [DEBUG][<module>]     logloss: 0.1528375092267169, auc: -0.6268804516102547 
+2020-05-31 20:08:50,271 __main__ 78 [DEBUG][<module>]     logloss: 0.15374030214637918, auc: -0.6108257209128533 
+2020-05-31 20:09:03,583 __main__ 78 [DEBUG][<module>]     logloss: 0.15298593849069875, auc: -0.6249510421834205 
+2020-05-31 20:09:38,896 __main__ 78 [DEBUG][<module>]     logloss: 0.1538397706607587, auc: -0.6094069826301901 
+2020-05-31 20:09:38,896 __main__ 86 [INFO][<module>] logloss: 0.15328670294405836, auc: -0.6188978628505558 
+2020-05-31 20:09:38,896 __main__ 87 [INFO][<module>] current min score: -0.6188978628505558, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:09:38,896 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:09:43,786 __main__ 78 [DEBUG][<module>]     logloss: 0.17283372023105253, auc: -0.49006114631281494 
+2020-05-31 20:09:48,490 __main__ 78 [DEBUG][<module>]     logloss: 0.1730340401932351, auc: -0.48771728161033406 
+2020-05-31 20:09:53,255 __main__ 78 [DEBUG][<module>]     logloss: 0.17251360158310292, auc: -0.49454026839779774 
+2020-05-31 20:09:58,193 __main__ 78 [DEBUG][<module>]     logloss: 0.17299638978550488, auc: -0.48923921613026516 
+2020-05-31 20:10:02,974 __main__ 78 [DEBUG][<module>]     logloss: 0.17280232406310456, auc: -0.48998613923865764 
+2020-05-31 20:10:02,974 __main__ 86 [INFO][<module>] logloss: 0.1728360151712, auc: -0.4903088103379739 
+2020-05-31 20:10:02,974 __main__ 87 [INFO][<module>] current min score: -0.6188978628505558, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:10:02,974 __main__ 59 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:10:04,552 __main__ 78 [DEBUG][<module>]     logloss: 0.15546230141488107, auc: -0.587836444402838 
+2020-05-31 20:10:17,693 __main__ 78 [DEBUG][<module>]     logloss: 0.15294772634633788, auc: -0.6249547197703512 
+2020-05-31 20:10:31,342 __main__ 78 [DEBUG][<module>]     logloss: 0.15355012423885692, auc: -0.6148677851049487 
+2020-05-31 20:10:47,411 __main__ 78 [DEBUG][<module>]     logloss: 0.15307381178933682, auc: -0.6231610490298244 
+2020-05-31 20:11:00,677 __main__ 78 [DEBUG][<module>]     logloss: 0.15396995134793615, auc: -0.6071367681202144 
+2020-05-31 20:11:00,677 __main__ 86 [INFO][<module>] logloss: 0.15380078302746975, auc: -0.6115913532856354 
+2020-05-31 20:11:00,677 __main__ 87 [INFO][<module>] current min score: -0.6188978628505558, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:11:00,693 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:11:05,521 __main__ 78 [DEBUG][<module>]     logloss: 0.1728167647561151, auc: -0.4900605194299764 
+2020-05-31 20:11:10,365 __main__ 78 [DEBUG][<module>]     logloss: 0.17301682290556789, auc: -0.4877170023259925 
+2020-05-31 20:11:15,119 __main__ 78 [DEBUG][<module>]     logloss: 0.1724966812817669, auc: -0.4945375237761391 
+2020-05-31 20:11:19,943 __main__ 78 [DEBUG][<module>]     logloss: 0.17297953112490527, auc: -0.48923640919769956 
+2020-05-31 20:11:24,865 __main__ 78 [DEBUG][<module>]     logloss: 0.172785203785887, auc: -0.48998647888143226 
+2020-05-31 20:11:24,865 __main__ 86 [INFO][<module>] logloss: 0.17281900077084844, auc: -0.490307586722248 
+2020-05-31 20:11:24,865 __main__ 87 [INFO][<module>] current min score: -0.6188978628505558, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:11:24,865 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:11:37,599 __main__ 78 [DEBUG][<module>]     logloss: 0.15293364151782024, auc: -0.6244513268232461 
+2020-05-31 20:11:41,521 __main__ 78 [DEBUG][<module>]     logloss: 0.15315445123268212, auc: -0.6200097534129029 
+2020-05-31 20:11:45,458 __main__ 78 [DEBUG][<module>]     logloss: 0.15379699933217023, auc: -0.6098216113261462 
+2020-05-31 20:11:49,230 __main__ 78 [DEBUG][<module>]     logloss: 0.1534341775497734, auc: -0.6156582227631795 
+2020-05-31 20:11:52,958 __main__ 78 [DEBUG][<module>]     logloss: 0.15413605606009292, auc: -0.6037155464510391 
+2020-05-31 20:11:52,974 __main__ 86 [INFO][<module>] logloss: 0.1534910651385078, auc: -0.6147312921553029 
+2020-05-31 20:11:52,974 __main__ 87 [INFO][<module>] current min score: -0.6188978628505558, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:11:52,974 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:11:57,958 __main__ 78 [DEBUG][<module>]     logloss: 0.17283394326638543, auc: -0.4900611061280176 
+2020-05-31 20:12:02,818 __main__ 78 [DEBUG][<module>]     logloss: 0.17303400835850388, auc: -0.48771724745325634 
+2020-05-31 20:12:07,630 __main__ 78 [DEBUG][<module>]     logloss: 0.17251331940079082, auc: -0.4945402462961591 
+2020-05-31 20:12:12,380 __main__ 78 [DEBUG][<module>]     logloss: 0.17299669842269044, auc: -0.489239177954375 
+2020-05-31 20:12:17,152 __main__ 78 [DEBUG][<module>]     logloss: 0.17280219322001783, auc: -0.48998616938446604 
+2020-05-31 20:12:17,152 __main__ 86 [INFO][<module>] logloss: 0.17283603253367769, auc: -0.49030878944325484 
+2020-05-31 20:12:17,154 __main__ 87 [INFO][<module>] current min score: -0.6188978628505558, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:12:17,157 __main__ 59 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:12:18,630 __main__ 78 [DEBUG][<module>]     logloss: 0.1554696756995424, auc: -0.5878804768945292 
+2020-05-31 20:12:35,302 __main__ 78 [DEBUG][<module>]     logloss: 0.1528361250194794, auc: -0.626977688773631 
+2020-05-31 20:13:02,271 __main__ 78 [DEBUG][<module>]     logloss: 0.1534713871245547, auc: -0.6162338311243857 
+2020-05-31 20:13:28,599 __main__ 78 [DEBUG][<module>]     logloss: 0.15286558007950393, auc: -0.6271706145657493 
+2020-05-31 20:13:35,052 __main__ 78 [DEBUG][<module>]     logloss: 0.1540674873393926, auc: -0.6056009296195578 
+2020-05-31 20:13:35,052 __main__ 86 [INFO][<module>] logloss: 0.15374205105249458, auc: -0.6127727081955705 
+2020-05-31 20:13:35,068 __main__ 87 [INFO][<module>] current min score: -0.6188978628505558, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:13:35,068 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:13:39,974 __main__ 78 [DEBUG][<module>]     logloss: 0.1728167618244711, auc: -0.4900605113930169 
+2020-05-31 20:13:44,740 __main__ 78 [DEBUG][<module>]     logloss: 0.17301675823748222, auc: -0.48771697620587423 
+2020-05-31 20:13:49,568 __main__ 78 [DEBUG][<module>]     logloss: 0.17249652824863299, auc: -0.4945375117206998 
+2020-05-31 20:13:54,330 __main__ 78 [DEBUG][<module>]     logloss: 0.1729800503981426, auc: -0.4892364513921046 
+2020-05-31 20:13:59,083 __main__ 78 [DEBUG][<module>]     logloss: 0.17278515991782983, auc: -0.489986452755065 
+2020-05-31 20:13:59,083 __main__ 86 [INFO][<module>] logloss: 0.17281905172531176, auc: -0.4903075806933521 
+2020-05-31 20:13:59,083 __main__ 87 [INFO][<module>] current min score: -0.6188978628505558, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:13:59,083 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:14:08,404 __main__ 78 [DEBUG][<module>]     logloss: 0.1529760516019805, auc: -0.6235019288381246 
+2020-05-31 20:14:12,053 __main__ 78 [DEBUG][<module>]     logloss: 0.1531528635881419, auc: -0.6200461045805814 
+2020-05-31 20:14:15,755 __main__ 78 [DEBUG][<module>]     logloss: 0.15379897443354318, auc: -0.6097852018905113 
+2020-05-31 20:14:19,396 __main__ 78 [DEBUG][<module>]     logloss: 0.1534235060359614, auc: -0.6158548989222278 
+2020-05-31 20:14:23,151 __main__ 78 [DEBUG][<module>]     logloss: 0.15413766153301225, auc: -0.6037112556976432 
+2020-05-31 20:14:23,152 __main__ 86 [INFO][<module>] logloss: 0.15349781143852786, auc: -0.6145798779858177 
+2020-05-31 20:14:23,154 __main__ 87 [INFO][<module>] current min score: -0.6188978628505558, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:14:23,156 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:14:28,036 __main__ 78 [DEBUG][<module>]     logloss: 0.17283351230948807, auc: -0.4900611061280177 
+2020-05-31 20:14:32,833 __main__ 78 [DEBUG][<module>]     logloss: 0.1730338307434085, auc: -0.48771725950869554 
+2020-05-31 20:14:37,724 __main__ 78 [DEBUG][<module>]     logloss: 0.17251312734577318, auc: -0.4945402844717167 
+2020-05-31 20:14:42,505 __main__ 78 [DEBUG][<module>]     logloss: 0.17299667017023132, auc: -0.48923917393586025 
+2020-05-31 20:14:47,411 __main__ 78 [DEBUG][<module>]     logloss: 0.17280235051393877, auc: -0.4899861432580988 
+2020-05-31 20:14:47,411 __main__ 86 [INFO][<module>] logloss: 0.17283589821656797, auc: -0.4903087934604778 
+2020-05-31 20:14:47,411 __main__ 87 [INFO][<module>] current min score: -0.6188978628505558, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:14:47,427 __main__ 59 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:14:48,865 __main__ 78 [DEBUG][<module>]     logloss: 0.15547073314032508, auc: -0.5878854578001601 
+2020-05-31 20:15:10,083 __main__ 78 [DEBUG][<module>]     logloss: 0.15279499919093928, auc: -0.6276326366746842 
+2020-05-31 20:15:30,990 __main__ 78 [DEBUG][<module>]     logloss: 0.15347947053621755, auc: -0.616087978393181 
+2020-05-31 20:15:51,254 __main__ 78 [DEBUG][<module>]     logloss: 0.15290943891249548, auc: -0.6263132483658703 
+2020-05-31 20:16:11,083 __main__ 78 [DEBUG][<module>]     logloss: 0.153874118544094, auc: -0.6088158233274271 
+2020-05-31 20:16:11,083 __main__ 86 [INFO][<module>] logloss: 0.15370575206481427, auc: -0.6133470289122644 
+2020-05-31 20:16:11,083 __main__ 87 [INFO][<module>] current min score: -0.6188978628505558, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:16:11,083 __main__ 89 [INFO][<module>] minimum params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:16:11,083 __main__ 90 [INFO][<module>] minimum auc: -0.6188978628505558 
+2020-05-31 20:16:15,646 __main__ 95 [INFO][<module>] train end 
+2020-05-31 20:16:18,568 __main__ 101 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 20:16:20,708 __main__ 110 [INFO][<module>] end 
+2020-05-31 20:24:05,597 __main__ 42 [INFO][<module>] start 
+2020-05-31 20:24:07,903 __main__ 51 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' ... 'ps_calc_18_bin' 'ps_calc_19_bin'
+ 'ps_calc_20_bin'] 
+2020-05-31 20:24:07,904 __main__ 53 [INFO][<module>] data preparation end (595212, 58) 
+2020-05-31 20:24:07,907 __main__ 64 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:24:13,140 __main__ 83 [DEBUG][<module>]     logloss: 0.17281675597303314, gini: 0.019878937029168875 
+2020-05-31 20:24:13,141 __main__ 91 [INFO][<module>] logloss: 0.17281675597303314, gini: 0.019878937029168875 
+2020-05-31 20:24:13,142 __main__ 92 [INFO][<module>] current min score: 0.019878937029168875, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:24:13,145 __main__ 64 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:24:22,945 __main__ 83 [DEBUG][<module>]     logloss: 0.15302999419573826, gini: -0.24485023383212123 
+2020-05-31 20:24:22,946 __main__ 91 [INFO][<module>] logloss: 0.15302999419573826, gini: -0.24485023383212123 
+2020-05-31 20:24:22,948 __main__ 92 [INFO][<module>] current min score: -0.24485023383212123, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:24:22,950 __main__ 64 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:24:27,821 __main__ 83 [DEBUG][<module>]     logloss: 0.17283372023105253, gini: 0.019877707374370113 
+2020-05-31 20:24:27,822 __main__ 91 [INFO][<module>] logloss: 0.17283372023105253, gini: 0.019877707374370113 
+2020-05-31 20:24:27,823 __main__ 92 [INFO][<module>] current min score: -0.24485023383212123, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:24:27,825 __main__ 64 [INFO][<module>] params: {'C': 0.1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:24:29,352 __main__ 83 [DEBUG][<module>]     logloss: 0.15546230141488107, gini: -0.175672888805676 
+2020-05-31 20:24:29,353 __main__ 91 [INFO][<module>] logloss: 0.15546230141488107, gini: -0.175672888805676 
+2020-05-31 20:24:29,354 __main__ 92 [INFO][<module>] current min score: -0.24485023383212123, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:24:29,356 __main__ 64 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:24:34,168 __main__ 83 [DEBUG][<module>]     logloss: 0.1728167647561151, gini: 0.01987896114004717 
+2020-05-31 20:24:34,168 __main__ 91 [INFO][<module>] logloss: 0.1728167647561151, gini: 0.01987896114004717 
+2020-05-31 20:24:34,170 __main__ 92 [INFO][<module>] current min score: -0.24485023383212123, params: {'C': 0.1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:24:34,172 __main__ 64 [INFO][<module>] params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:24:48,223 __main__ 83 [DEBUG][<module>]     logloss: 0.15293364151782024, gini: -0.24890265364649222 
+2020-05-31 20:24:48,224 __main__ 91 [INFO][<module>] logloss: 0.15293364151782024, gini: -0.24890265364649222 
+2020-05-31 20:24:48,225 __main__ 92 [INFO][<module>] current min score: -0.24890265364649222, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:24:48,228 __main__ 64 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:24:53,448 __main__ 83 [DEBUG][<module>]     logloss: 0.17283394326638543, gini: 0.01987778774396476 
+2020-05-31 20:24:53,449 __main__ 91 [INFO][<module>] logloss: 0.17283394326638543, gini: 0.01987778774396476 
+2020-05-31 20:24:53,451 __main__ 92 [INFO][<module>] current min score: -0.24890265364649222, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:24:53,453 __main__ 64 [INFO][<module>] params: {'C': 1, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:24:55,088 __main__ 83 [DEBUG][<module>]     logloss: 0.1554696756995424, gini: -0.17576095378905832 
+2020-05-31 20:24:55,088 __main__ 91 [INFO][<module>] logloss: 0.1554696756995424, gini: -0.17576095378905832 
+2020-05-31 20:24:55,090 __main__ 92 [INFO][<module>] current min score: -0.24890265364649222, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:24:55,092 __main__ 64 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:25:00,415 __main__ 83 [DEBUG][<module>]     logloss: 0.1728167618244711, gini: 0.019878977213966254 
+2020-05-31 20:25:00,416 __main__ 91 [INFO][<module>] logloss: 0.1728167618244711, gini: 0.019878977213966254 
+2020-05-31 20:25:00,417 __main__ 92 [INFO][<module>] current min score: -0.24890265364649222, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:25:00,419 __main__ 64 [INFO][<module>] params: {'C': 10, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:25:11,217 __main__ 83 [DEBUG][<module>]     logloss: 0.1529760516019805, gini: -0.24700385767624922 
+2020-05-31 20:25:11,218 __main__ 91 [INFO][<module>] logloss: 0.1529760516019805, gini: -0.24700385767624922 
+2020-05-31 20:25:11,219 __main__ 92 [INFO][<module>] current min score: -0.24890265364649222, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:25:11,222 __main__ 64 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l2', 'random_state': 0} 
+2020-05-31 20:25:16,507 __main__ 83 [DEBUG][<module>]     logloss: 0.17283351230948807, gini: 0.019877787743964648 
+2020-05-31 20:25:16,507 __main__ 91 [INFO][<module>] logloss: 0.17283351230948807, gini: 0.019877787743964648 
+2020-05-31 20:25:16,509 __main__ 92 [INFO][<module>] current min score: -0.24890265364649222, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:25:16,511 __main__ 64 [INFO][<module>] params: {'C': 10, 'fit_intercept': False, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:25:18,160 __main__ 83 [DEBUG][<module>]     logloss: 0.15547073314032508, gini: -0.1757709156003202 
+2020-05-31 20:25:18,161 __main__ 91 [INFO][<module>] logloss: 0.15547073314032508, gini: -0.1757709156003202 
+2020-05-31 20:25:18,163 __main__ 92 [INFO][<module>] current min score: -0.24890265364649222, params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:25:18,165 __main__ 94 [INFO][<module>] minimum params: {'C': 1, 'fit_intercept': True, 'penalty': 'l1', 'random_state': 0} 
+2020-05-31 20:25:18,167 __main__ 95 [INFO][<module>] minimum gini: -0.24890265364649222 
+2020-05-31 20:25:23,299 __main__ 100 [INFO][<module>] train end 
+2020-05-31 20:25:26,906 __main__ 106 [INFO][<module>] test data load end (892816, 58) 
+2020-05-31 20:25:29,136 __main__ 115 [INFO][<module>] end 
+2020-06-01 00:19:03,223 __main__ 43 [INFO][<module>] start 
+2020-06-01 00:19:04,711 __main__ 52 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin'] 
+2020-06-01 00:19:04,711 __main__ 54 [INFO][<module>] data preparation end (595212, 58) 
+2020-06-01 00:19:04,727 __main__ 62 [INFO][<module>] params: {'seed': 0} 
+2020-06-01 00:19:28,731 __main__ 81 [DEBUG][<module>]     logloss: 0.15409959557722278, gini: -0.24072043819046107 
+2020-06-01 00:19:28,732 __main__ 89 [INFO][<module>] logloss: 0.15409959557722278, gini: -0.24072043819046107 
+2020-06-01 00:19:28,733 __main__ 90 [INFO][<module>] current min score: -0.24072043819046107, params: {'seed': 0} 
+2020-06-01 00:19:28,735 __main__ 92 [INFO][<module>] minimum params: {'seed': 0} 
+2020-06-01 00:19:28,736 __main__ 93 [INFO][<module>] minimum gini: -0.24072043819046107 
+2020-06-01 00:19:58,401 __main__ 98 [INFO][<module>] train end 
+2020-06-01 00:20:00,963 __main__ 104 [INFO][<module>] test data load end (892816, 58) 
+2020-06-01 00:20:04,356 __main__ 112 [INFO][<module>] end 
+2020-06-01 00:28:16,347 __main__ 43 [INFO][<module>] start 
+2020-06-01 00:28:18,063 __main__ 52 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin'] 
+2020-06-01 00:28:18,064 __main__ 54 [INFO][<module>] data preparation end (595212, 58) 
+2020-06-01 00:28:18,066 __main__ 62 [INFO][<module>] params: {'seed': 0} 
+2020-06-01 00:28:24,197 __main__ 83 [DEBUG][<module>]     logloss: 0.16502229500156917, gini: -0.25185502267049453 
+2020-06-01 00:28:24,198 __main__ 91 [INFO][<module>] logloss: 0.16502229500156917, gini: -0.25185502267049453 
+2020-06-01 00:28:24,199 __main__ 92 [INFO][<module>] current min score: -0.25185502267049453, params: {'seed': 0} 
+2020-06-01 00:28:24,202 __main__ 94 [INFO][<module>] minimum params: {'seed': 0} 
+2020-06-01 00:28:24,202 __main__ 95 [INFO][<module>] minimum gini: -0.25185502267049453 
+2020-06-01 00:28:54,783 __main__ 100 [INFO][<module>] train end 
+2020-06-01 00:28:57,545 __main__ 106 [INFO][<module>] test data load end (892816, 58) 
+2020-06-01 00:29:01,040 __main__ 114 [INFO][<module>] end 
+2020-06-01 00:38:19,806 __main__ 47 [INFO][<module>] start 
+2020-06-01 00:38:21,353 __main__ 56 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin'] 
+2020-06-01 00:38:21,354 __main__ 58 [INFO][<module>] data preparation end (595212, 58) 
+2020-06-01 00:38:21,356 __main__ 66 [INFO][<module>] params: {'seed': 0} 
+2020-06-01 00:38:41,671 __main__ 47 [INFO][<module>] start 
+2020-06-01 00:38:41,671 __main__ 47 [INFO][<module>] start 
+2020-06-01 00:38:43,235 __main__ 56 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin'] 
+2020-06-01 00:38:43,235 __main__ 56 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin'] 
+2020-06-01 00:38:43,236 __main__ 58 [INFO][<module>] data preparation end (595212, 58) 
+2020-06-01 00:38:43,236 __main__ 58 [INFO][<module>] data preparation end (595212, 58) 
+2020-06-01 00:38:43,238 __main__ 66 [INFO][<module>] params: {'seed': 0} 
+2020-06-01 00:38:43,238 __main__ 66 [INFO][<module>] params: {'seed': 0} 
+2020-06-01 00:38:53,326 __main__ 88 [DEBUG][<module>]     logloss: 0.15219067160440106, gini: -0.27702655670198695 
+2020-06-01 00:38:53,326 __main__ 88 [DEBUG][<module>]     logloss: 0.15219067160440106, gini: -0.27702655670198695 
+2020-06-01 00:38:53,327 __main__ 96 [INFO][<module>] logloss: 0.15219067160440106, gini: -0.27702655670198695 
+2020-06-01 00:38:53,327 __main__ 96 [INFO][<module>] logloss: 0.15219067160440106, gini: -0.27702655670198695 
+2020-06-01 00:38:53,329 __main__ 97 [INFO][<module>] current min score: -0.27702655670198695, params: {'seed': 0} 
+2020-06-01 00:38:53,329 __main__ 97 [INFO][<module>] current min score: -0.27702655670198695, params: {'seed': 0} 
+2020-06-01 00:38:53,333 __main__ 99 [INFO][<module>] minimum params: {'seed': 0} 
+2020-06-01 00:38:53,333 __main__ 99 [INFO][<module>] minimum params: {'seed': 0} 
+2020-06-01 00:38:53,334 __main__ 100 [INFO][<module>] minimum gini: -0.27702655670198695 
+2020-06-01 00:38:53,334 __main__ 100 [INFO][<module>] minimum gini: -0.27702655670198695 
+2020-06-01 00:39:22,664 __main__ 105 [INFO][<module>] train end 
+2020-06-01 00:39:22,664 __main__ 105 [INFO][<module>] train end 
+2020-06-01 00:39:25,462 __main__ 111 [INFO][<module>] test data load end (892816, 58) 
+2020-06-01 00:39:25,462 __main__ 111 [INFO][<module>] test data load end (892816, 58) 
+2020-06-01 00:39:29,014 __main__ 119 [INFO][<module>] end 
+2020-06-01 00:39:29,014 __main__ 119 [INFO][<module>] end 
+2020-06-01 00:51:09,390 __main__ 47 [INFO][<module>] start 
+2020-06-01 00:51:11,086 __main__ 56 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin'] 
+2020-06-01 00:51:11,086 __main__ 58 [INFO][<module>] data preparation end (595212, 58) 
+2020-06-01 00:51:11,088 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:13,679 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:13,680 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:13,681 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:13,683 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:51:16,310 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:16,311 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:16,312 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:16,314 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:18,946 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:18,947 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:18,948 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:18,950 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:51:21,620 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:21,621 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:21,622 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:21,624 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:24,235 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:24,236 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:24,237 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:24,238 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:51:26,868 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:26,869 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:26,871 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:26,872 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:29,587 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:29,588 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:29,589 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:29,591 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:51:32,253 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:32,253 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:32,254 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:32,256 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:34,896 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:34,897 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:34,899 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:34,900 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:51:37,538 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:37,539 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:37,540 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:37,541 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:40,175 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:40,176 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:40,177 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:40,179 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:51:42,822 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:42,823 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:42,824 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:42,826 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:45,474 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:45,475 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:45,476 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:45,478 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:51:48,105 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:48,106 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:48,107 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:48,108 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:50,765 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:50,766 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:50,767 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:50,769 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:51:53,416 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:53,416 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:53,417 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:53,419 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:56,026 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:56,027 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:56,028 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:56,030 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:51:58,716 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:51:58,717 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:51:58,718 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:51:58,719 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:01,378 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:01,378 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:01,379 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:01,380 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:52:04,030 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:04,031 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:04,032 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:04,034 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:06,677 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:06,677 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:06,678 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:06,680 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:52:09,307 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:09,308 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:09,309 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:09,311 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:11,972 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:11,973 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:11,974 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:11,976 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:52:14,624 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:14,625 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:14,626 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:14,628 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:17,279 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:17,280 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:17,281 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:17,282 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:52:19,957 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:19,957 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:19,958 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:19,960 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:22,607 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:22,607 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:22,609 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:22,611 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:52:25,285 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:25,286 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:25,287 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:25,288 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:27,909 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:27,910 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:27,911 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:27,912 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:52:30,619 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:30,620 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:30,621 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:30,622 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:33,278 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:33,279 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:33,280 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:33,281 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:52:35,829 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:35,830 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:35,831 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:35,833 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:38,409 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:38,410 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:38,411 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:38,413 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:52:40,951 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:40,952 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:40,953 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:40,954 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:43,538 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:43,539 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:43,540 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:43,542 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:52:46,193 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:46,193 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:46,194 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:46,196 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:48,828 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:48,829 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:48,830 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:48,832 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:52:51,543 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:51,544 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:51,545 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:51,547 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:54,207 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:54,208 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:54,209 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:54,210 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:52:56,848 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:56,848 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:56,849 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:56,851 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:59,467 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:52:59,468 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:52:59,469 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:52:59,470 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:53:02,090 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:02,091 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:02,092 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:02,093 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:04,704 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:04,705 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:04,706 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:04,708 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:53:07,323 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:07,324 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:07,325 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:07,327 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:09,964 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:09,964 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:09,965 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:09,967 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:53:12,607 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:12,608 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:12,609 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:12,610 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:15,219 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:15,220 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:15,221 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:15,223 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:53:17,879 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:17,880 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:17,881 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:17,883 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:20,486 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:20,487 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:20,488 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:20,490 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:53:23,098 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:23,099 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:23,100 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:23,101 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:25,685 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:25,686 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:25,687 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:25,688 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:53:28,400 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:28,401 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:28,402 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:28,404 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:31,040 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:31,040 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:31,042 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:31,043 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:53:33,673 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:33,674 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:33,675 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:33,677 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:36,303 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:36,304 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:36,305 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:36,307 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:53:38,922 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:38,923 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:38,924 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:38,925 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:41,557 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:41,558 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:41,559 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:41,560 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:53:44,183 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:44,184 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:44,185 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:44,187 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:46,795 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:46,796 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:46,797 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:46,798 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:53:49,404 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:49,405 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:49,406 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:49,407 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:52,014 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:52,015 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:52,016 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:52,017 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:53:54,637 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:54,637 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:54,638 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:54,640 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:57,272 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:57,273 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:57,274 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:57,276 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:53:59,887 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:53:59,887 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:53:59,888 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:53:59,890 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:54:02,491 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:54:02,492 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:54:02,493 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:54:02,494 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:54:05,168 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:54:05,169 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:54:05,170 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:54:05,171 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:54:07,828 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:54:07,829 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:54:07,830 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:54:07,831 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:54:10,398 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:54:10,399 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:54:10,400 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:54:10,401 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:54:13,050 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:54:13,051 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:54:13,052 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:54:13,053 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:54:15,688 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:54:15,689 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:54:15,690 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:54:15,692 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:54:18,284 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:54:18,285 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:54:18,286 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:54:18,287 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.9, 'colsample_bytree': 0.9, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:54:20,878 __main__ 97 [DEBUG][<module>]     logloss: 0.6885241365708724, gini: -0.0 
+2020-06-01 00:54:20,878 __main__ 105 [INFO][<module>] logloss: 0.6885241365708724, gini: 0.0 
+2020-06-01 00:54:20,879 __main__ 106 [INFO][<module>] current min score: 0.0, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:54:20,882 __main__ 108 [INFO][<module>] minimum params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:54:20,883 __main__ 109 [INFO][<module>] minimum gini: 0.0 
+2020-06-01 00:54:45,491 __main__ 47 [INFO][<module>] start 
+2020-06-01 00:54:47,019 __main__ 56 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin'] 
+2020-06-01 00:54:47,020 __main__ 58 [INFO][<module>] data preparation end (595212, 58) 
+2020-06-01 00:54:47,022 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:56:14,579 __main__ 97 [DEBUG][<module>]     logloss: 0.1517525912756055, gini: -0.2859840594624412 
+2020-06-01 00:56:14,579 __main__ 105 [INFO][<module>] logloss: 0.1517525912756055, gini: -0.2859840594624412 
+2020-06-01 00:56:14,580 __main__ 106 [INFO][<module>] current min score: -0.2859840594624412, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:56:14,582 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 00:57:44,948 __main__ 97 [DEBUG][<module>]     logloss: 0.15174172968584715, gini: -0.2858977143883852 
+2020-06-01 00:57:44,949 __main__ 105 [INFO][<module>] logloss: 0.15174172968584715, gini: -0.2858977143883852 
+2020-06-01 00:57:44,950 __main__ 106 [INFO][<module>] current min score: -0.2859840594624412, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:57:44,952 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:59:16,009 __main__ 97 [DEBUG][<module>]     logloss: 0.15172522466178615, gini: -0.28676862342733167 
+2020-06-01 00:59:16,010 __main__ 105 [INFO][<module>] logloss: 0.15172522466178615, gini: -0.28676862342733167 
+2020-06-01 00:59:16,011 __main__ 106 [INFO][<module>] current min score: -0.28676862342733167, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 00:59:16,013 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 01:00:53,617 __main__ 97 [DEBUG][<module>]     logloss: 0.1517042198678414, gini: -0.2869431480114426 
+2020-06-01 01:00:53,617 __main__ 105 [INFO][<module>] logloss: 0.1517042198678414, gini: -0.2869431480114426 
+2020-06-01 01:00:53,619 __main__ 106 [INFO][<module>] current min score: -0.2869431480114426, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 01:00:53,620 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 01:01:06,562 __main__ 97 [DEBUG][<module>]     logloss: 0.5537266440731935, gini: -0.0012956261805692204 
+2020-06-01 01:01:06,563 __main__ 105 [INFO][<module>] logloss: 0.5537266440731935, gini: -0.0012956261805692204 
+2020-06-01 01:01:06,564 __main__ 106 [INFO][<module>] current min score: -0.2869431480114426, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 01:01:06,565 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 01:01:19,607 __main__ 97 [DEBUG][<module>]     logloss: 0.5499208449073648, gini: -0.0012956261805692204 
+2020-06-01 01:01:19,607 __main__ 105 [INFO][<module>] logloss: 0.5499208449073648, gini: -0.0012956261805692204 
+2020-06-01 01:01:19,609 __main__ 106 [INFO][<module>] current min score: -0.2869431480114426, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 01:01:19,610 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 01:03:03,140 __main__ 97 [DEBUG][<module>]     logloss: 0.1516444561109348, gini: -0.28930042238079756 
+2020-06-01 01:03:03,141 __main__ 105 [INFO][<module>] logloss: 0.1516444561109348, gini: -0.28930042238079756 
+2020-06-01 01:03:03,142 __main__ 106 [INFO][<module>] current min score: -0.28930042238079756, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 01:03:03,144 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 01:04:42,796 __main__ 97 [DEBUG][<module>]     logloss: 0.15170943349438581, gini: -0.28790389619257417 
+2020-06-01 01:04:42,797 __main__ 105 [INFO][<module>] logloss: 0.15170943349438581, gini: -0.28790389619257417 
+2020-06-01 01:04:42,798 __main__ 106 [INFO][<module>] current min score: -0.28930042238079756, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 01:04:42,799 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 01:06:35,074 __main__ 97 [DEBUG][<module>]     logloss: 0.15166394028868319, gini: -0.2867748922557176 
+2020-06-01 01:06:35,075 __main__ 105 [INFO][<module>] logloss: 0.15166394028868319, gini: -0.2867748922557176 
+2020-06-01 01:06:35,076 __main__ 106 [INFO][<module>] current min score: -0.28930042238079756, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 01:06:35,078 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 5, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 01:08:11,446 __main__ 97 [DEBUG][<module>]     logloss: 0.15171755624271652, gini: -0.2866118404312492 
+2020-06-01 01:08:11,446 __main__ 105 [INFO][<module>] logloss: 0.15171755624271652, gini: -0.2866118404312492 
+2020-06-01 01:08:11,461 __main__ 106 [INFO][<module>] current min score: -0.28930042238079756, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 01:08:11,461 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 01:08:24,151 __main__ 97 [DEBUG][<module>]     logloss: 0.5537266440731935, gini: -0.0012956261805692204 
+2020-06-01 01:08:24,151 __main__ 105 [INFO][<module>] logloss: 0.5537266440731935, gini: -0.0012956261805692204 
+2020-06-01 01:08:24,152 __main__ 106 [INFO][<module>] current min score: -0.28930042238079756, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 01:08:24,154 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 01:08:37,075 __main__ 97 [DEBUG][<module>]     logloss: 0.5499208449073648, gini: -0.0012956261805692204 
+2020-06-01 01:08:37,076 __main__ 105 [INFO][<module>] logloss: 0.5499208449073648, gini: -0.0012956261805692204 
+2020-06-01 01:08:37,077 __main__ 106 [INFO][<module>] current min score: -0.28930042238079756, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 5, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 01:08:37,079 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 7, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0, 'seed': 0} 
+2020-06-01 01:11:43,256 __main__ 47 [INFO][<module>] start 
+2020-06-01 01:11:44,774 __main__ 56 [INFO][<module>] train columns: (58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin'] 
+2020-06-01 01:11:44,774 __main__ 58 [INFO][<module>] data preparation end (595212, 58) 
+2020-06-01 01:11:44,774 __main__ 75 [INFO][<module>] params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 01:13:13,138 __main__ 97 [DEBUG][<module>]     logloss: 0.15174172968584715, gini: -0.2858977143883852 
+2020-06-01 01:13:13,139 __main__ 105 [INFO][<module>] logloss: 0.15174172968584715, gini: -0.2858977143883852 
+2020-06-01 01:13:13,140 __main__ 106 [INFO][<module>] current min score: -0.2858977143883852, params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 01:13:13,142 __main__ 108 [INFO][<module>] minimum params: {'colsample_bylevel': 0.8, 'colsample_bytree': 0.8, 'learning_rate': 0.1, 'max_delta_step': 0.1, 'max_depth': 3, 'min_child_weight': 3, 'n_estimators': 10000, 'reg_alpha': 0.1, 'seed': 0} 
+2020-06-01 01:13:13,142 __main__ 109 [INFO][<module>] minimum gini: -0.2858977143883852 
